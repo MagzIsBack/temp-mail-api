@@ -1,2 +1,4 @@
-# temp-mail-api
-the tempmail.org api
+Install this library and run.
+time
+requests
+json
